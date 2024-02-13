@@ -23,7 +23,8 @@ def cmatrix_animation():
         "Wake up, Neo...",
         "The Matrix has you...",
         "Follow the white rabbit.",
-        "Knock, knock, Neo."
+        "Knock, knock, Neo.", 
+        "Password: pass"
     ]
 
     while True:
